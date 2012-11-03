@@ -1,3 +1,3 @@
 ##BinarySearchTree
 
-This is simple BinarySearchTree application for Applied Computer Science Lecture
+This is a simple BinarySearchTree application for Applied Computer Science Lecture
